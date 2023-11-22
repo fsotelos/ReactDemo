@@ -1,0 +1,12 @@
+.add-todo-form {
+    margin-top: 16px;
+  }
+  
+  .add-todo-form input {
+    padding: 8px;
+  }
+  
+  .add-todo-form button {
+    padding: 8px;
+    cursor: pointer;
+  }
