@@ -1,0 +1,16 @@
+/* src/styles/Weather.css */
+.weather-app {
+    max-width: 400px;
+    margin: 0 auto;
+    text-align: center;
+    padding: 20px;
+  }
+  
+  .weather-display {
+    margin-top: 20px;
+    border: 1px solid #ccc;
+    padding: 15px;
+  }
+  
+  /* Add more styles as needed */
+  

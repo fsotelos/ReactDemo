@@ -1,0 +1,17 @@
+/* src/styles/SearchForm.css */
+.search-form {
+    margin-top: 20px;
+    display: flex;
+    justify-content: center;
+  }
+  
+  .search-form input {
+    padding: 8px;
+    margin-right: 5px;
+  }
+  
+  .search-form button {
+    padding: 8px;
+    cursor: pointer;
+  }
+  
