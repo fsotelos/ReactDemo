@@ -5,7 +5,7 @@
   }
   
   .clock {
-    border: 1px solid #b73636;
+    
     padding: 10px;
     border-radius: 5px;
     width: 200px;
@@ -18,4 +18,16 @@
   p {
     font-size: 1.5em;
     margin: 0;
+  }
+  
+  .headerClock
+  {
+    background-color: cornflowerblue;
+    padding: 2%;
+  }
+
+  .bodyClock
+  {
+    background-color: cornflowerblue;
+    padding: 2%;
   }
